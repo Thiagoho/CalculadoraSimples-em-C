@@ -1,8 +1,8 @@
 <h2>Explicando cada parte do código:</h2>
 <h3>1º Bibliotecas foram:</h3>
-  °Inicia com <strong>'#include stdbool.h' </strong> para entrada/saída padrão.
+  °Inicia com '<strong>#include stdbool.h</strong>' para entrada/saída padrão.
   <p></p>
-  °Adicionar <strong>'#include stdbool.h'</strong> para usar o tipo de dado<strong>'bool'</strong>
+  °Adicionar '<strong>#include stdbool.h</strong>' para usar o tipo de dado<strong>'bool'</strong>
   <p></p>
 <h3>2º Declaração de Funções</h3>
   °<strong>'solicitarNomeros':</strong> Solicitando dois números ao usuário, verificando se a entrada é válida.
