@@ -38,7 +38,7 @@
   °Imprime o resultado da operação escolhida ou uma mensagem de erros se a operação for inválida ou envolver por zero.
   <p>FIM!</p>
   <strong>Espero que isso ajude a entender a estrutura do código!</strong>
-  
+  https://github.com/Thiagoho/CalculadoraSimples-em-C/assets/135985268/534054a9-7268-4aeb-a170-3d693bf312a1
   
 
   
