@@ -9,7 +9,7 @@
   <p></p>
   °<strong>'solicitandoOperacao':</strong> Solicitando a operação desejada(+,-,*,/) ao usuário.
   <p></p>
-  °<strong>calculadoraOpcao':</strong> Realiza a operação escolhida nos números fornecidos.
+  °<strong>'calculadoraOpcao':</strong> Realiza a operação escolhida nos números fornecidos.
   <p></p>
 <h3>3º Função Principal ('main')</h3>
   °Declara variáveis locais<strong>('num1', 'num2', 'operador')</strong>.
