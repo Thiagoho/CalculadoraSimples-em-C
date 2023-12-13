@@ -27,7 +27,7 @@
   <p></p>
   °Se o usuário inserir algo que não seja um númeor, uma mensagem de erro é exibida, e o loop continua.
   <p></p>
-<h3>5ºFunção 'calcularOpcao:</h3>
+<h3>5ºFunção 'calcularOpcao':</h3>
   °Pergunta ao usuário qual opção deseja realizar(+,-,*,/).
   <p></p>
   °Usa <strong>'scanf'</strong> para ler um caractere e armazená-lo na variável <strong>'operador'</strong>.
